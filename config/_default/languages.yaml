@@ -1,0 +1,19 @@
+# Languages
+#   Create a section for each of your site's languages.
+
+en:
+  languageName: English
+  contentDir: content/en
+  title: Perceivable
+  params:
+    description: One of the WCAG Principles
+  # cSpell:disable
+pt:
+  languageName: Português
+  contentDir: content/pt
+  title: Percetível
+  params:
+    description: Um dos princípios das WCAG
+    time_format_default: 02/01/2006
+    time_format_blog: 02/01/2006
+  # cSpell:enable

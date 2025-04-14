@@ -1,0 +1,19 @@
+# Navigation Links
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Início
+    url: /
+    weight: 10
+  - name: Diretrizes WCAG
+    url: /docs/
+    weight: 20
+  - name: Métodos de Detecção de Problemas
+    url: /problems/
+    weight: 40
+  - name: Exemplos
+    url: /examples/
+    weight: 50
+  - name: Sobre Nós
+    url: /community/
+    weight: 60

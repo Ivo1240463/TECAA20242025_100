@@ -1,0 +1,34 @@
+# Navigation Links
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Home
+    url: /
+    weight: 10
+  - name: WCAG guidelines
+    url: /docs/
+    weight: 20
+  - name: Problems Detection Methods
+    url: /problems/
+    weight: 40
+  - name: Examples
+    url: /examples/
+    weight: 50
+  - name: About Us
+    url: /community/
+    weight: 60
+
+# sidebar:
+#   - identifier: more
+#     name: Still need help?
+#     params:
+#       type: separator
+#     weight: 1
+#   - identifier: community
+#     name: "Community"
+#     pageRef: "/community"
+#     weight: 2
+#   - identifier: hugoDocs
+#     name: "Hugo Docs ↗"
+#     url: "https://docs.hugoblox.com"
+#     weight: 3
