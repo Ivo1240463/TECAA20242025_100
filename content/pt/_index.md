@@ -14,7 +14,7 @@ sections:
       text: Diretrizes de Acessibilidade para Conteúdo da Web (WCAG)
       primary_action:
         text: Diretrizes
-        url: /docs/
+        url: docs/
         icon: rocket-launch
     design:
       spacing:
