@@ -5,7 +5,6 @@ en:
   languageName: English
   contentDir: content/en
   title: Perceivable
-  weight: 1
   params:
     description: One of the WCAG Principles
   # cSpell:disable
@@ -13,7 +12,6 @@ pt:
   languageName: Português
   contentDir: content/pt
   title: Percetível
-  weight: 2
   params:
     description: Um dos princípios das WCAG
     time_format_default: 02/01/2006
