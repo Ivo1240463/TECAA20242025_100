@@ -3,17 +3,17 @@
 
 main:
   - name: Início
-    url: /
+    url: ""
     weight: 10
   - name: Diretrizes WCAG
-    url: /docs/
+    url: "docs/"
     weight: 20
   - name: Métodos de Detecção de Problemas
-    url: /problems/
+    url: "problems/"
     weight: 40
   - name: Exemplos
-    url: /examples/
+    url: "examples/"
     weight: 50
   - name: Sobre Nós
-    url: /community/
+    url: "community/"
     weight: 60
